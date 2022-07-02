@@ -2,7 +2,7 @@
 //  toshibaApp.swift
 //  toshiba
 //
-//  Created by Cyrille Fougerouse on 02/07/2022.
+//  Created by Anonymous on 02/07/2022.
 //
 
 import SwiftUI
